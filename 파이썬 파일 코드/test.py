@@ -1,0 +1,1 @@
+print("movie ticket".upper())
